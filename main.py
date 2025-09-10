@@ -11,7 +11,7 @@
 # a = input()
 # print(a[-1])
 
-#Третье
+#Третье первые буквы
 # first_word = input()
 # second_word = input()
 # if first_word[0] == second_word[0]:
@@ -31,8 +31,8 @@
 # print(int(integer[0]) + int(integer[-1]))
 
 #Шестое
-# first_integer = int(input())
-# second_integer = int(input())
+# first_integer = input()
+# second_integer = input()
 # print(first_integer[0] == second_integer[0])
 
 #Седьмое
@@ -48,7 +48,7 @@
 # else: 
 #     print('Некратное')
 
-#Девятое
+#Девятое доделать
 # first_integer = int(input())
 # second_integer = int(input())
 # third_integer = int(input())
@@ -63,12 +63,12 @@
 # if len(a) == 3:
 #     print(int(a[0])*int(a[1])*int(a[2]))
 
-#одинадцатое
+#одинадцатое количество одинаковых
 # a = input()
 # b = input()
 # c = input()
 # print((a == b) or (b==c) or (a==c))
 
 #Двенадцатое
-# integer = input()
-# print(integer[0] == integer[1])
+integer = input()
+print(integer[0] == integer[1])
